@@ -5,7 +5,7 @@
 
 > A small, low-cost USB Dongle designed with nRF52840
 
-## Description
+## Description..
 
 nRF52840 MDK USB Dongle is a small and low-cost development platform enabled by the nRF52840 multiprotocol SoC in a convenient USB Dongle form factor.
 
